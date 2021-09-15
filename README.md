@@ -12,7 +12,7 @@ Um site responsivio relativo ao gerenciamento de informações ambientais urbana
  docker build -t aps .
  docker run -d -p 8080:80 --name aps aps
  ```
- - Abra noo navegador a seguinte url:
+ - Abra no navegador a seguinte url:
  ```
  http://localhost:8080/
  ```
