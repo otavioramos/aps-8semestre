@@ -20,4 +20,6 @@ Um site responsivio relativo ao gerenciamento de informações ambientais urbana
  ## Links Auxiliares
 [Como instalar Docker (inglês)](https://docs.docker.com/get-docker/)
 
+[Criando sua própria imagem no Docker](https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html)
+
 [Documento da APS](./documentoAPS.pdf)
