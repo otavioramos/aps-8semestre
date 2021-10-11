@@ -10,12 +10,16 @@ Um site responsivio relativo ao gerenciamento de informações ambientais urbana
  - Tendo o Docker instalado, execute os comandos abaixo:
  ```
  docker build -t aps .
- docker run -d -p 8080:80 --name aps aps
+ docker run -d -p 80:80 --name aps aps
  ```
  - Abra no navegador a seguinte url:
  ```
- http://localhost:8080/
+ http://localhost:80/
  ```
+
+ ## Acesso ao sistema
+
+ [Link de acesso](http://aps-load-balancer-784703779.us-east-1.elb.amazonaws.com/)
 
  ## Links Auxiliares
 [Como instalar Docker (inglês)](https://docs.docker.com/get-docker/)
