@@ -1,0 +1,70 @@
+.navbar {
+    padding: 0;
+}
+
+.barra-navegacao {
+    padding: 0.5%;
+}
+
+.aps {
+    font-weight: bold;
+    padding: 0.5rem 0.5rem;
+}
+
+.explicacao-site {
+    padding: 4% 7%;
+    text-align: center;
+    height: 300px;
+}
+
+.explicacao-site p {
+    font-size: 1.5rem;
+}
+
+@media (max-width: 991px){
+    .card {
+        margin-bottom: 2rem;
+    }   
+}
+
+/* energia */
+.energia {
+    padding: 5% 9%;
+    text-align: left;
+    background-color: #B3E6F5;
+}
+
+.energia-heading {
+    text-align: center;
+}
+
+/* plantações */
+.plantacoes {
+    padding: 5% 9%;
+    text-align: left;
+    background-color: #CDFFB1;
+}
+
+.plantacoes-heading {
+    text-align: center;
+}
+
+/* clima */
+
+.clima {
+    padding: 5% 9%;
+    text-align: left;
+}
+
+.clima-heading {
+    text-align: center;
+}
+
+.linha-cards {
+    padding-top: 3rem;
+}
+
+.area-botao-leia-mais {
+    text-align: center;
+}
+
