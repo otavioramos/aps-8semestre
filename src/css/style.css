@@ -1,5 +1,6 @@
 .navbar {
     padding: 0;
+    text-align: center;
 }
 
 .barra-navegacao {
@@ -24,7 +25,11 @@
 @media (max-width: 991px){
     .card {
         margin-bottom: 2rem;
-    }   
+    }
+    .items-menu {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
 }
 
 /* energia */
