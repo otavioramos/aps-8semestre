@@ -14,7 +14,7 @@ Um site responsivio relativo ao gerenciamento de informações ambientais urbana
  ```
  - Abra no navegador a seguinte url:
  ```
- http://localhost:80/
+http://localhost/
  ```
 
  ## Acesso ao sistema
