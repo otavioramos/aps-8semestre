@@ -71,7 +71,7 @@
 .plantacoes {
     padding: 5% 9%;
     text-align: left;
-    background-color: #CDFFB1;
+    background-color: #84c8ff;
 }
 
 .plantacoes-heading {
@@ -83,6 +83,7 @@
 .clima {
     padding: 5% 9%;
     text-align: left;
+    background-color: #bffaf0;
 }
 
 .clima-heading {
@@ -97,3 +98,16 @@
     text-align: center;
 }
 
+#footer {
+    text-align: center;
+    height: 15%;
+    padding: 3% 25%;
+}
+
+#footer p {
+    margin: 0;
+}
+
+.link-github {
+    padding: 0 0.5rem; 
+}
