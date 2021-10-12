@@ -22,6 +22,30 @@
     font-size: 1.5rem;
 }
 
+@media (min-width:350px) and (max-width:540px) {
+    .aps {
+        font-size: 0.9rem;
+        padding: 0;
+        margin: 0;
+    }
+    .logo-unip {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+@media (max-width:350px) {
+    .aps {
+        font-size: 0.7rem;
+        padding: 0;
+        margin: 0;
+    }
+    .logo-unip {
+        width: 40px;
+        height: 40px;
+    }
+}
+
 @media (max-width: 991px){
     .card {
         margin-bottom: 2rem;
