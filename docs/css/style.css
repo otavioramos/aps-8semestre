@@ -25,17 +25,53 @@
 .logo-area {
     border-radius: 70%;
     padding: 5px;
+    background-color: #023D71;
 }
 
+@media (max-width: 991px){
+    .card {
+        margin-bottom: 2rem;
+    }
+    .aps {
+        font-size: 1.6rem;
+    }
+    .items-menu {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+}
 
-@media (min-width:350px) and (max-width:540px) {
+@media (min-width:540px) and (max-width:650px) {
+    .aps {
+        font-size: 1.3rem;
+        padding: 0;
+        margin: 0;
+    }
+    .logo-unip {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media (min-width:440px) and (max-width:540px) {
+    .aps {
+        font-size: 1.1rem;
+        padding: 0;
+        margin: 0;
+    }
+    .logo-unip {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media (min-width:350px) and (max-width:440px) {
     .aps {
         font-size: 0.9rem;
         padding: 0;
         margin: 0;
     }
     .logo-unip {
-        content: url("../images/logo-unip.svg");
         width: 40px;
         height: 40px;
     }
@@ -48,19 +84,8 @@
         margin: 0;
     }
     .logo-unip {
-        content: url("../images/logo-unip.svg");
         width: 40px;
         height: 40px;
-    }
-}
-
-@media (max-width: 991px){
-    .card {
-        margin-bottom: 2rem;
-    }
-    .items-menu {
-        font-size: 1.5rem;
-        font-weight: bold;
     }
 }
 
