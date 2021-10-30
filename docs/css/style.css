@@ -22,13 +22,19 @@
     font-size: 1.5rem;
 }
 
-@media (min-width:350px) and (max-width:540px) {
+.logo-unip {
+    padding: 2px;
+    border-radius: 100%;
+}
+
+@media (min-width:350px) and (max-width:500px) {
     .aps {
         font-size: 0.9rem;
         padding: 0;
         margin: 0;
     }
     .logo-unip {
+        content: url("../images/logo-unip.svg");
         width: 40px;
         height: 40px;
     }
@@ -41,6 +47,7 @@
         margin: 0;
     }
     .logo-unip {
+        content: url("../images/logo-unip.svg");
         width: 40px;
         height: 40px;
     }
