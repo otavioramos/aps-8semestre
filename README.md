@@ -19,7 +19,7 @@ http://localhost/
 
  ## Acesso ao sistema
 
- [Link de acesso](http://aps-load-balancer-784703779.us-east-1.elb.amazonaws.com/)
+ [https://otavioramos.github.io/aps-8semestre/](https://otavioramos.github.io/aps-8semestre/)
 
  ## Links Auxiliares
 [Como instalar Docker (inglês)](https://docs.docker.com/get-docker/)
