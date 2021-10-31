@@ -26,4 +26,4 @@ http://localhost/
 
 [Criando sua própria imagem no Docker](https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html)
 
-[Documento da APS](./documentoAPS.pdf)
+[Documento da APS](./docs/documentoAPS.pdf)
